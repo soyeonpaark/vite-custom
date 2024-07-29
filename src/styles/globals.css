@@ -1,0 +1,12 @@
+:root {
+  --white: #fff;
+  --black: #000;
+
+  --rouned-xs: 2px;
+}
+
+body {
+  margin: 0;
+  background-color: var(--black);
+  color: var(--white);
+}
